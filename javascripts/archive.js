@@ -32,7 +32,7 @@ function ajax (){
         url: '/message',
         data: {'text': merge(SelectedToArr),/*'edit': true*/},
         success:setTimeout(function(){alert('המערכת המלאה מעבירה את ההודעות שסימנת לחלון העריכה הראשי')
-            window.location.href="../index.html"
+            window.location.href="./index.html"
         },2000)
     });
 }
