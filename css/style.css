@@ -1,0 +1,214 @@
+@font-face {
+    font-family: 'assistant-v1-hebrew-regular';
+    src: url("fonts/assistant-v1-hebrew-regular.ttf");
+}
+
+body{
+    height: 100%;
+    width: 100%;
+    margin:0 auto;
+    font-family: assistant-v1-hebrew-regular,serif;
+    background-image: url("../images/background.png");
+    font-size: 8.5px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.header{
+    background-color: #cc060e;
+    width: 100%;
+    height: 30px;
+
+}
+
+.logo{
+    height:30px;
+    float: left;
+    padding-right: 2%;
+}
+
+.header ul{
+
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    margin:0;
+    padding: 0;
+}
+
+.header ul li {
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 2px 0;
+    color:white;
+    margin-left: 0;
+
+
+}
+.layer{
+    background-color: white;
+    width:100vw;
+    height: 100vh;
+    position: absolute;
+    z-index: 3;
+    display: none;
+
+}
+
+.counter{
+    display: none;
+}
+input[type="checkbox"]{
+    cursor: pointer;
+    -webkit-appearance: none;
+    background: white;
+    border-radius: 25px;
+    box-sizing: border-box;
+    position: relative;
+    box-sizing: content-box ;
+    width: 15px;
+    height: 10px;
+    border-width: 0;
+    transition: all .3s linear;
+}
+input[type="checkbox"]:checked{
+    background-color: red;
+    padding-right: 15px;
+}
+input[type="checkbox"]:focus{
+    outline: 0 none;
+    box-shadow: none;
+}
+
+:checked + span {
+    color:#cc060e;
+}
+
+.layer>label{
+    padding-right: 20px;
+    font-size: 25px;
+}
+
+.layer>.active{
+    width:100%;
+    font-size: 25px;
+    color:white;
+    border:none;
+    background-color: #cc060e;
+}
+
+.txtarea{
+    width:90%;
+    height:50vh;
+    margin:0 4.7% 0 3.7%;
+    background-color: #f8f8f8;
+    outline: none;
+    font-size:24px;
+}
+
+.buttons-after-textarea{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+}
+
+.btn-run-editor2,.btn-run-editor,.param,.first-update,.qoute,.btn-copy,.clean-from,.reset-buttons,.btn-clean-all{
+    float:right;
+    background-color: #cc060e;
+    width:32.7%;
+    box-sizing: border-box;
+    color:white;
+    border: none;
+    margin: 1px;
+    height: 40px;
+    font-weight: bold;
+    border-radius: 0.15em;
+    font-size: 13px;
+}
+
+.paramedics{
+    float:right;
+    background-color: #cc060e;
+    width:32.7%;
+    box-sizing: border-box;
+    color:white;
+    border: none;
+    margin: 1px;
+    height: 40px;
+    font-weight: bold;
+    border-radius: 0.15em;
+    font-size: 12px;
+}
+
+.MessageInCookie{
+    position: absolute;
+    top:10%;
+    width:100%;
+}
+.MessageInCookieContainer{
+    background-color: rgba(0,0,139,0.8);
+    color:white;
+    width:90%;
+    height:300px;
+    margin:0 auto;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.MessageInCookieText{
+    padding: 15px 20px 10px 20px;
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+.MessageInCookieText2{
+    font-size: 0.75em;
+}
+
+.yes,.no{
+    background-color:rgba(255,255,255,0.95);
+    font-size: 2em;
+    font-weight: bolder;
+    border: none;
+    border-radius: 2px;
+    margin:1%;
+    width:40%;
+    height:20%;
+}
+
+.MessageIfDelete{
+    position: absolute;
+    top:10%;
+    width:100%;
+}
+.MessageIfDeleteContainer{
+    background-color: rgba(0,0,139,0.8);
+    color:white;
+    width:90%;
+    height:200px;
+    margin:0 auto;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.MessageIfDeleteText{
+    padding: 15px 20px 10px 20px;
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+.yes-del,.no-del{
+    background-color:rgba(255,255,255,0.95);
+    font-size: 2em;
+    font-weight: bolder;
+    border: none;
+    border-radius: 2px;
+    margin:1%;
+    width:40%;
+    height:20%;
+}
