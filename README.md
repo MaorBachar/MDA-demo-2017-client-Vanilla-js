@@ -1,5 +1,4 @@
 # Magen David Adom Spokesman-Department Web Application
-![preview](https://maorbachar.github.io/Magen-David-Adom-Spokesman-Department-Web-Application/images/preview.jpg)
 
 Developing system for Magen David Adom - Spokesman Department,
 that need to publish an accurate report, as fast as possible to the press.
@@ -9,7 +8,9 @@ The messages can then be forwarded to the leading newsgroups, by WhatsApp and / 
 
 link for DEMO version:
 https://goo.gl/578uRS
-
+<p align="center">
+  <img width="460" height="600" src="https://maorbachar.github.io/Magen-David-Adom-Spokesman-Department-Web-Application/images/preview.jpg">
+</p>
 # Panel Edior:
 once message recived by MDA Call Center, it will appear automaticlly inside the text area edior.
 
