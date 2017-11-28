@@ -1,5 +1,5 @@
 # Magen David Adom Spokesman-Department Web Application
-![preview](https://maorbachar.github.io/Magen-David-Adom-Spokesman-Department-Web-Application/images/preview.png)
+![preview](https://maorbachar.github.io/Magen-David-Adom-Spokesman-Department-Web-Application/images/preview.jpg)
 
 Developing system for Magen David Adom - Spokesman Department,
 that need to publish an accurate report, as fast as possible to the press.
