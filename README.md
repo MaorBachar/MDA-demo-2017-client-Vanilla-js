@@ -8,8 +8,8 @@ The messages can then be forwarded to the leading newsgroups, by WhatsApp and / 
 <p align="center">
   <img width="460" height="600" src="https://maorbachar.github.io/Magen-David-Adom-Spokesman-Department-Web-Application/images/preview.jpg">
 </p>
-link for DEMO version:
-https://goo.gl/578uRS
+link for DEMO version (this system build especially for mobile users):
+https://goo.gl/6DUw8o
 
 # Panel Edior:
 once message recived by MDA Call Center, it will appear automaticlly inside the text area edior.
