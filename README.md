@@ -25,6 +25,6 @@ by clicking on "send to whatsapp" after choo, the applcation able to style your 
 # Archive system:
 every message that recived stored in database (MongoDB), there is an option to merge up to 2 messages and by one click it will redirect the user to the edior.
 
-#Auto-save message safety system:
+# Auto-save message safety system:
 this system checks if the user trying to edit message, any change will save for 10 minutes.
 once user close the browser and entered again to the application, system will notify - there is message that saved for 10 minutes.
