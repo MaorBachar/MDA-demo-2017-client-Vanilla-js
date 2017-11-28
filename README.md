@@ -1,7 +1,7 @@
 # Magen David Adom Spokesman-Department Web Application
 
 Developing web application for Magen David Adom - Spokesman Department,
-that need to publish an accurate report, as fast as possible to the press.
+that need to publish an accurate report, as fast as possible to the press.<br>
 once message recived by MDA Call Center, it will appear automaticlly inside this web application - panel editor.
 
 
@@ -30,7 +30,7 @@ by clicking on "send to whatsapp", the applcation able to style your text, for e
 <br>
 <br>
 # Archive system:
-every message that recived stored in database (MongoDB), there is an option to merge up to 2 messages and by one click it will redirect the user to the edior.
+every message that recived stored in database <b>(MongoDB)</b>, there is an option to merge up to 2 messages and by one click it will redirect the user to the edior.
 <br>
 <br>
 # Auto-save message safety system:
