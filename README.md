@@ -8,9 +8,9 @@ The messages can then be forwarded to the leading newsgroups, by WhatsApp and / 
 <p align="center">
   <img width="460" height="600" src="https://maorbachar.github.io/Magen-David-Adom-Spokesman-Department-Web-Application/images/preview.jpg">
 </p>
-<b>Full version running on Nodejs express server.  this is only static version.
+<b>This is only static version, Full version running on Nodejs express server.
   <br>
-link for DEMO version (this system build especially for mobile users):</b>
+link for static-Demo version (this system build especially for mobile users):</b>
 https://goo.gl/6DUw8o
 
 # Panel Edior:
