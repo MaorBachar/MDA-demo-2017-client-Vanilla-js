@@ -1,6 +1,6 @@
 # Magen David Adom Spokesman-Department Web Application
 
-Developing system for Magen David Adom - Spokesman Department,
+Developing web application for Magen David Adom - Spokesman Department,
 that need to publish an accurate report, as fast as possible to the press.
 
 This web app enables the end user to get real time reports from the Israeli national emergency services,By offering to edit & use pre-made text pattern and title that fits with the relevant content entered by the user, all by fast and easy UI.
@@ -8,7 +8,9 @@ The messages can then be forwarded to the leading newsgroups, by WhatsApp and / 
 <p align="center">
   <img width="460" height="600" src="https://maorbachar.github.io/Magen-David-Adom-Spokesman-Department-Web-Application/images/preview.jpg">
 </p>
-<b>link for DEMO version (this system build especially for mobile users):</b>
+<b>Full version running on Nodejs express server.  this is only static version.
+  <br>
+link for DEMO version (this system build especially for mobile users):</b>
 https://goo.gl/6DUw8o
 
 # Panel Edior:
