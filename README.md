@@ -20,7 +20,8 @@ for example: "מד"א מוקד ארצי" will replace to "דוברות מד"א" 
 
 ## share to Email or Whatsapp:
 by clicking on "send to email", the application will offer to the edior subject.
-by clicking on "send to whatsapp" after choo, the applcation able to style your text for example- adding bold.
+<br>
+by clicking on "send to whatsapp", the applcation able to style your text, for example - adding bold.
 
 # Archive system:
 every message that recived stored in database (MongoDB), there is an option to merge up to 2 messages and by one click it will redirect the user to the edior.
