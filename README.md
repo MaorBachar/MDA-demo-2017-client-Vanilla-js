@@ -2,6 +2,9 @@
 
 Developing web application for Magen David Adom - Spokesman Department,
 that need to publish an accurate report, as fast as possible to the press.
+once message recived by MDA Call Center, it will appear automaticlly inside this web application - panel editor.
+
+
 
 This web app enables the end user to get real time reports from the Israeli national emergency services,By offering to edit & use pre-made text pattern and title that fits with the relevant content entered by the user, all by fast and easy UI.
 The messages can then be forwarded to the leading newsgroups, by WhatsApp and / or by mail.
