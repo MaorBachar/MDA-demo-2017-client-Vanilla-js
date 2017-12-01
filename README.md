@@ -12,8 +12,7 @@ The messages can then be forwarded to the leading newsgroups, by WhatsApp and / 
   <img width="260" src="images/preview.jpg">
 </p>
 This is only static version, Full version running on Nodejs express server.
-  <br>
-[link for static-Demo version this system build especially for mobile users](https://goo.gl/6DUw8o)
+  <br>[link for static-Demo version this system build especially for mobile users](https://goo.gl/6DUw8o)
 
 
 ## Panel Edior:
