@@ -9,7 +9,7 @@ once message received by MDA Call Center, it will appear automatically  inside t
 This web app enables the end user to get real time reports from the Israeli national emergency services, By offering to edit & use pre-made text pattern and title that fits with the relevant content entered by the user, all by fast and easy UI.
 The messages can then be forwarded to the leading newsgroups, by WhatsApp and / or by mail.
 <p align="center">
-  <img width="360" src="images/preview.jpg">
+  <img width="260" src="images/preview.jpg">
 </p>
 <b>This is only static version, Full version running on Nodejs express server.
   <br>
