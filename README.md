@@ -13,7 +13,7 @@ The messages can then be forwarded to the leading newsgroups, by WhatsApp and / 
 </p>
 This is only static version, Full version running on Nodejs express server.
   <br>
-[link for static-Demo version (this system build especially for mobile users)](https://goo.gl/6DUw8o)
+[link for static-Demo version this system build especially for mobile users](https://goo.gl/6DUw8o)
 
 
 ## Panel Edior:
