@@ -16,23 +16,23 @@ The messages can then be forwarded to the leading newsgroups, by WhatsApp and / 
 link for static-Demo version (this system build especially for mobile users):</b>
 https://goo.gl/6DUw8o
 
-# Panel Edior:
+## Panel Edior:
 once message received by MDA Call Center, it will appear automatically inside the text area editor.
 
-## -pre-made text pattern:
+### -pre-made text pattern:
 by clicking on buttons below the text area it will replace automatically text to fit relevant content.
 for example: "מד"א מוקד ארצי" will replace to "דוברות מד"א" or "דובר מד"א זכי הלר".
 
-## -share to Email or Whatsapp:
+### -share to Email or Whatsapp:
 by clicking on "send to email", the application will offer to the editor subject.
 <br>
 by clicking on "send to whatsapp", the application able to style your text, for example - adding bold.
 <br>
 <br>
-# Archive system:
+## Archive system:
 every message that received stored in database <b>(MongoDB)</b>, there is an option to merge up to 2 messages and by one click it will redirect the user to the editor.
 <br>
 <br>
-# Auto-save message safety system:
+## Auto-save message safety system:
 this system checks if the user trying to edit message, any change will save for 10 minutes.
 once user close the browser and entered again to the application, system will notify - there is message that saved for 10 minutes.
