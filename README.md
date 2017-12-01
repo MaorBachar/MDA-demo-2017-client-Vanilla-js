@@ -11,10 +11,10 @@ The messages can then be forwarded to the leading newsgroups, by WhatsApp and / 
 <p align="center">
   <img width="260" src="images/preview.jpg">
 </p>
-<b>This is only static version, Full version running on Nodejs express server.
+This is only static version, Full version running on Nodejs express server.
   <br>
-link for static-Demo version (this system build especially for mobile users):</b>
-https://goo.gl/6DUw8o
+[link for static-Demo version (this system build especially for mobile users)](https://goo.gl/6DUw8o)
+
 
 ## Panel Edior:
 once message received by MDA Call Center, it will appear automatically inside the text area editor.
