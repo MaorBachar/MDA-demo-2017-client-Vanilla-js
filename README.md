@@ -1,4 +1,4 @@
-# Web Application Magen David Adom Spokesman-Department
+# Web Application for Magen David Adom Spokesman Department
 
 Developing web application for Magen David Adom - Spokesman Department,
 that need to publish an accurate report, as fast as possible to the press.<br>
