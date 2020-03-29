@@ -15,7 +15,7 @@ This is only static version, Full version running on Nodejs express server.
   <br><a href="https://goo.gl/6DUw8o">link for static-Demo version this system build especially for mobile users</a>
 
 
-## Panel Edior:
+## Panel Editor:
 once message received by MDA Call Center, it will appear automatically inside the text area editor.
 
 ### -pre-made text pattern:
