@@ -12,7 +12,7 @@ The messages can then be forwarded to the leading newsgroups, by WhatsApp and / 
   <img width="260" src="images/preview.jpg">
 </p>
 This is only static version, Full version running on Nodejs express server.
-  <br><a href="https://goo.gl/6DUw8o">link for static-Demo version this system build especially for mobile users</a>
+  <br><a href="https://maorbachar.github.io/MDA-demo-2017-client-Vanilla-js/index.html">link for static-Demo version this system build especially for mobile users</a>
 
 
 ## Panel Editor:
